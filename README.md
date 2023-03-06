@@ -7,7 +7,9 @@ Algorithm Used In Sentiment Analysis:
 3.	TextBlob
 4.	CoreNlp
 We performed these algorithms on our data set separately and evaluated which one gave the best results. After evaluation, we decided to use NLTK and developed a prediction system using it. This allows the user to input any data and get a result.
-Emotions In Our Project: 
+
+Emotions In Our Project:
+
 Our model can detect 5 emotions:
 1.	Happy (meaning the user is happy)
 2.	Joyful (meaning the user is very happy)
