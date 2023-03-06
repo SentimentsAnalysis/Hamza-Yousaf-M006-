@@ -14,7 +14,10 @@ Our model can detect 5 emotions:
 3.	Angry (meaning the user is very upset or angry)
 4.	Sad (meaning the user is sad or upset)
 5.	Neutral (meaning the emotion is neither good nor bad)
+
 How To Run Predictive System: 
+
+
 I have defined the steps below to help you run the predictive system step by step:
 1.	You have been provided with a file named "Testing of Sentiment". To open this file, you need software called Jupyter Notebook. To install it, go to your command prompt and type "pip install jupyter". It will take some time to install. Once it's complete, type "jupyter notebook" on the command prompt. It will open in any browser, and you can run the file on it.
 2.	You will see an upload option. Upload the file that was sent to you named "Testing of Sentiment".
